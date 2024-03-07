@@ -23,9 +23,9 @@ interface Post {
 }
 ```
 
-Dans un second temps, dans la page "/blog/[id]" affichez le contenu de l'article correspondant à l'id. Dans le cas où l'article n'existe pas, le status de la page dois être 404 et dois afficher un message d'erreur.
+Dans un second temps, dans la page "/blog/[id]" affichez le contenu de l'article correspondant à l'id. Dans le cas où l'article n'existe pas, le statut de la page doit être 404 et doit afficher un message d'erreur.
 
-Pour finir, ajoutez un lien sur les articles de la page "/blog" pour accéder à la page "/blog/[id]".
+Pour finir, ajouter un lien sur les articles de la page "/blog" pour accéder à la page "/blog/[id]".
 
 ## Bonus
 
@@ -33,4 +33,4 @@ Sur VSCode, le snippet "qloader$" permet de générer un route loader.
 
 ## Aller plus loin
 
-Remaniez le code pour déplacer les loaders dans un autre fichier. De cette manière vous pouvez centraliser le code de chargement des données. Voir https://qwik.dev/docs/cookbook/re-exporting-loaders/
+Remanier le code pour déplacer les loaders dans un autre fichier. De cette manière vous pouvez centraliser le code de chargement des données. Voir https://qwik.dev/docs/cookbook/re-exporting-loaders/

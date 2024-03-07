@@ -6,8 +6,8 @@ Voir la documentation ici : https://qwik.dev/docs/integrations/supabase/
 
 Pour récupérer un article, vous pouvez procéder de cette façon :
 
-```ts
-await supabaseClient.from('posts').select().eq('id', requestEv.params.id).single();
+```typescript
+await supabaseClient.from('BlogPost').select().eq('id', requestEv.params.id).single();
 ```
 
 ## Exercice

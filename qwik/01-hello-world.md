@@ -26,7 +26,7 @@ yarn start
 bun start
 ```
 
-Si tout va bien, vous avez réussi à démarrer votre premier projet Qwik !
+Si tout va bien, vous avez réussi à démarrer votre premier projet Qwik ! (Vous pouvez aussi lancer la commande `dev` au lieu de `start` pour lancer ouvrir la page sur le navigateur web)
 
 ## Bonus
 

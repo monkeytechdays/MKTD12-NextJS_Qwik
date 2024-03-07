@@ -1,6 +1,6 @@
 # MKTD12 - Qwik
 
-Bienvenue dans le module Qwik du MonkeyTechDay #12 !
+Bienvenue dans le module Qwik du MonkeyTechDay #12, je suis Guillaume d'Eimar de Jabrun et je vous souhaite une bonne découverte !
 
 ## Qwik ?
 
@@ -8,7 +8,7 @@ Qwik est un framework conçu pour améliorer les performances de chargement des 
 
 Après avoir été annoncé pour la première fois en 2022, il donc encore très peu utilisé en production, mais il a atteint sa version 1.0 en Mai 2023.
 
-Qwik est très ressemblant à React, mais il y a quelques différences importantes :
+Qwik est volontairement très ressemblant à React, mais il y a quelques différences importantes :
 
 ## "Resumable"
 
@@ -32,8 +32,15 @@ Un autre aspect de Qwik contraitement à React, est qu'il utilise les signaux po
 
 ## Qwik City
 
-Tout comme React, Qwik se concentre sur l'API de composant. Qwik City apporte notament à Qwik un routeur et un serveur. Qwik City est à Qwik, ce que Next.js est à React, ce que Nuxt est à Vue, SvelteKit à Svelte et Analog à Angular.
+Tout comme React, Qwik se concentre sur l'API de composant. Qwik City apporte notament à Qwik un routeur et un serveur. Qwik City est à Qwik, ce que Next.js est à React, ce que Nuxt est à Vue, SvelteKit à Svelte, Analog à Angular, etc...
 
 ## Liste des exercices :
 
 - [Hello world](./01-hello-world.md)
+- [Routing](./02-routing.md)
+- [Route loaders](./03-loaders.md)
+- [Supabase](./04-supabase.md)
+- [Actions](./05-actions.md)
+- [State](./06-state.md)
+- [Styling](./07-styling.md)
+- [SEO](./08-seo.md)
